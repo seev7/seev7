@@ -3,7 +3,7 @@
   In the past I've created entire businesses off of
 selling licensed desktop and web applications (licensing systems which I built from scratch) which peaked at hundreds to thousands of daily users. 
 
-  I'm best in languages like C#, Java, and PHP. I'm able to do languages like Python or Javascript, but those are usually not my <b>goto;</b> (sorry)
+  I'm best in languages like C#, Java, and PHP. I'm able to develop in languages like Python or Javascript when needed.
   
   For database technologies, coming from experience with PHP, I am most proficient in MySQL. 
 I have dabbled in some MongoDB though, and I would have no problem picking it up. I've also created production apps with javascript libraries such as React along with Node.js/Express.
